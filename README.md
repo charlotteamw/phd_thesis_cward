@@ -1,1 +1,3 @@
 # phd_thesis_cward
+
+This repository contains the code and data for reproducing the figures and analyses from Chapters 3 to 5 of my PhD thesis. It includes all necessary scripts and datasets to replicate the analyses and visualizations presented in these chapters. The code is organized by chapter, with each folder containing the relevant scripts and data files. To reproduce the results, simply clone the repository, navigate to the respective chapter folder, and run the scripts. All required dependencies, primarily R packages such as ggplot2, dplyr, and tidyr, are listed in the scripts and can be installed via the R package manager. Data for each chapter is provided in the /data folder. 
